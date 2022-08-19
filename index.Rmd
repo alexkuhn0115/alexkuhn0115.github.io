@@ -1,33 +1,27 @@
 ---
 title: "Alex Uribe-Kuhn"
 image: "alex.png"
-links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
-  - label: Email
-    url: "mailto:kuhn0218@umn.edu"
+#links:
+#  - label: LinkedIn
+#    url: "https://linkedin.com/"
+#  - label: Email
+#    url: "mailto:kuhn0218@umn.edu"
 output:
   postcards::trestles
 ---
 
-## Bio
+### Bio 
+I am a first-year PhD student in the [School of Statistics](https://cla.umn.edu/statistics) at the University of Minnesota, and a trainee in the [Data Science in Multi-Messenger Astrophysics (DSMMA) program](https://dsmma.umn.edu/). 
 
-I am currently a PhD student in Statistics at the University of Minnesota.
+Before moving to Minnesota, I received my MS in Statistics from the [Statistics Department](https://stat.oregonstate.edu/) at Oregon State University where I was advised by Professor [Sarah Emerson](https://stat.oregonstate.edu/content/emerson-sarah), and my BS in Mathematics from [Western Washington University](https://mathematics.wwu.edu/) where I worked with Professor [Kimihiro Noguchi](https://mathematics.wwu.edu/people/noguchk). 
 
-## Education
+### Contact Information
+E-mail: kuhn0218 _at_ umn _dot_ edu
 
-**University of Minnesota** \| Minneapolis, MN
+### Research Interests
 
-PhD in Statistics \| September 2022 - Present
-
-**Oregon State University** \| Corvallis, OR
-
-MS in Statistics \| September 2020 - June 2022
-
-**Western Washington University** \| Bellingham, WA
-
-BS in Mathematics \| September 2016 - June 2020
+  * Multiple hypothesis testing
+  * Selective inference 
+  * Resampling methods
+  * Large-scale and high-dimensional inference
+  * Uncertainty quantification for machine learning procedures
