@@ -1,0 +1,33 @@
+---
+title: "Alex Uribe-Kuhn"
+image: "alex.png"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:kuhn0218@umn.edu"
+output:
+  postcards::trestles
+---
+
+## Bio
+
+I am currently a PhD student in Statistics at the University of Minnesota.
+
+## Education
+
+**University of Minnesota** \| Minneapolis, MN
+
+PhD in Statistics \| September 2022 - Present
+
+**Oregon State University** \| Corvallis, OR
+
+MS in Statistics \| September 2020 - June 2022
+
+**Western Washington University** \| Bellingham, WA
+
+BS in Mathematics \| September 2016 - June 2020
